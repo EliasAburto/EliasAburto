@@ -1,4 +1,4 @@
-[![Header](https://github.com/EliasAburto/EliasAburto/blob/main/PERFIL.gif)]
+![Header](https://github.com/EliasAburto/EliasAburto/blob/main/PERFIL.gif)
 
 ##### Hi, I'm Elías:
 
