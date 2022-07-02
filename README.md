@@ -1,3 +1,5 @@
+[![Header](https://github.com/EliasAburto/EliasAburto/blob/main/PERFIL.gif)]
+
 ##### Hi, I'm Elías:
 
 - 🎓Organizational Psychology student at the National University of San Marcos (UNMSM)
